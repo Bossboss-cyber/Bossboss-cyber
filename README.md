@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_Ghost_in_the_Shell_2017.png/1200px-Logo_Ghost_in_the_Shell_2017.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 <h1 align="center">Anis FARSI</h1>
 <h3 align="center">Developpeur Web Backend Symfony</h3>
 
@@ -8,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [project name](project link)
 
-<img align="top-right" alt="GIF" src="https://media.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e47ngfqz94p02hgha4otctrpezgqjgszj6ahxst18mz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e47ngfqz94p02hgha4otctrpezgqjgszj6ahxst18mz&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 <h3 align="left">Languages :</h3>
 <p>
