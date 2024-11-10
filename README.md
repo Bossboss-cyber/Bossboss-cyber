@@ -4,14 +4,16 @@
 <h1 align="center">Anis FARSI</h1>
 <h3 align="center">Developpeur Web Backend Symfony</h3>
 
-<h3 align="left">Description :</h3>
-- 🔭 I’m currently working on [project name](project link)
+<div align="center" >
+<p>
+💻 Développeur backend spécialisé en Symfony, passionné par la cybersécurité et le pentesting, avec pour ambition d’intégrer la Red Team pour apporter une expertise offensive en sécurité informatique. Sur ce profil, vous trouverez des projets combinant mes compétences en développement backend et en sécurité offensive. Mon objectif : explorer les systèmes sous tous leurs angles pour renforcer leur sécurité globale et les préparer aux menaces réelles. 💻
+</p>
 
-- 🌱 I’m currently learning **Symfony**
+<img height="450" alt="GIF" src="https://media.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e47ngfqz94p02hgha4otctrpezgqjgszj6ahxst18mz&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-- 👯 I’m looking to collaborate on [project name](project link)
+</div>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e47ngfqz94p02hgha4otctrpezgqjgszj6ahxst18mz&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+____
 
 <h3 align="left">Languages :</h3>
 <p>
@@ -60,6 +62,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/adminer-%234479A1?style=for-the-badge&logo=adminer&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/php%20my%20admin-%234479A1?style=for-the-badge&logo=phpmyadmin&logoColor=white">
 </p>
+
+____
+
 <br>
 <h3 align="left">Stats :</h3>
 <a align="right" href="https://github.com/Bossboss-cyber">
