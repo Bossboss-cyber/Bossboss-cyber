@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_Ghost_in_the_Shell_2017.png/1200px-Logo_Ghost_in_the_Shell_2017.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
-<h1 align="center">Anis FARSI</h1>
+<h1 align="center"></h1>
 <h3 align="center">Developpeur Web Backend Symfony</h3>
 
 <div align="center" >
